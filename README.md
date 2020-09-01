@@ -1,2 +1,1 @@
-# JavaFirstProject
-repository for the submission of the assignments given by Sapeint
+All the assignments related to PJP1 [week1 to week 10] are submitted here.
